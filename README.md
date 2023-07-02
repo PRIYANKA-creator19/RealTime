@@ -1,2 +1,2 @@
 # RealTime
-real time project
+automatic tweet lalbelling using PySpark
